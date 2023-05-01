@@ -3,6 +3,8 @@
 Clustering aims to divide a data set into different homogeneous groups. The objective of clustering is to 
 construct classes automatically based on the available instances (or observations).
 
+![image](https://user-images.githubusercontent.com/121105876/235478496-1152e343-5100-4723-b04e-e9b822fcdc96.png)
+
 ![image](https://user-images.githubusercontent.com/121105876/235475547-a4c22002-dcb5-4495-b67c-d4da221855ad.png)
 
 Use of four clustering methods: 
