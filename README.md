@@ -15,4 +15,4 @@ Mixed classification: Combines the two previous methods and reduces their disadv
 
 Mean Shift Algorithm: This technique consists of transforming a digital image A (sequence of bits) into a second B (shorter sequence of bits) that can restore the same or similar information, using a decompression algorithm.
 
-Datasets used (found on the internet): "Ruspini.csv", "fromages.txt" and 
+Datasets used (found on the internet): "Ruspini.csv" and "fromages.txt" 
